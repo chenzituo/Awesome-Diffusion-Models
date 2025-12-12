@@ -1451,11 +1451,6 @@ Interspeech 2021. [[Paper](https://arxiv.org/abs/2104.01409)] \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2208.09801)] \
 21 Aug 2022
 
-**PointDP: Diffusion-driven Purification against Adversarial Attacks on 3D Point Cloud Recognition** \
-*Jiachen Sun, Weili Nie, Zhiding Yu, Z. Morley Mao, Chaowei Xiao* \
-arXiv 2022. [[Paper](https://arxiv.org/abs/2208.09801)] \
-21 Aug 2022
-
 **Threat Model-Agnostic Adversarial Defense using Diffusion Models** \
 *Tsachi Blau, Roy Ganz, Bahjat Kawar, Alex Bronstein, Michael Elad* \
 arXiv 2022. [[Paper](https://arxiv.org/abs/2207.08089)] \
